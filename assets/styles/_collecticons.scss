@@ -1,0 +1,45 @@
+/* ==========================================================================
+   Icon font: collecticons
+   ========================================================================== */
+
+/**
+ * Generated with collecticons-processor on June 29, 2016
+ * http://collecticons.io/
+ */
+
+
+
+
+@font-face {
+  font-family: "collecticons";
+  
+  
+  src: url(data:application/font-woff;charset=utf-8;base64,d09GRgABAAAAAAQYAAsAAAAABngAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABHU1VCAAABCAAAADMAAABCsP6z7U9TLzIAAAE8AAAAPgAAAFZAdkhqY21hcAAAAXwAAABLAAABcOspwa1nbHlmAAAByAAAAIQAAACsaVraVmhlYWQAAAJMAAAALAAAADYKUvKeaGhlYQAAAngAAAAcAAAAJAhfBAJobXR4AAAClAAAAAgAAAAIBAAAAGxvY2EAAAKcAAAABgAAAAYAVgAAbWF4cAAAAqQAAAAgAAAAIAEPAEBuYW1lAAACxAAAATEAAAJGOsJuNXBvc3QAAAP4AAAAHgAAAC/PfXBqeJxjYGRgYOBikGPQYWB0cfMJYeBgYGGAAJAMY05meiJQDMoDyrGAaQ4gZoOIAgCKIwNPAHicY2BkYmCcwMDKwMHownSGgYGhH0IzvmYwYuRgYGBiYGVmwAoC0lxTGBxeMb5iZAFxY1gYwcJgEgCMsAhjAAB4nGNgYGBlYGBgBmIdIGZhYGAMYWBkAAE/oCgjWJyZgQsszsKgBFbDAhJ/xfj/P4wE8lnAJAMjG8Mo4AGTMlAeOKwgmIERADU0CX0AeJxjYGYAAhZGFkYGVgY5BmMGBkZlQXFzdWYldj5GdjYRcTlGcTEjcztGczMTdT1GdTVmJXU1dTUTczNzMyNxMXExEXY2djYmh4bLUWsdMuJj+tQ1NNT7YuIvIJgZGVHhxiYmxuFRF2AMZoZ/Ty9FrWN8iq4WwvzTgKIazAC6EgCsuyrWeJxjYGRgYADi3sXBq+L5bb4ycLMwgMDlmdcuINMsjCwglRwMTCAeADtRChZ4nGNgZGBgYQCCGBD5/z8LIwMjAypgAgA2LgJsAAAAAAQAAAAAAAAAAFYAAAABAAAAAgA0AAMAAAAAAAIAAAAKAAoAAAD/AAAAAAAAeJx1kT1Ow0AQhZ8TJ4gEISQkRMdWNEjOT0GRkiLpU6Sgc5x14sj2WutNpHQcgxNwDEqOwCk4BM/LFBGSd6X1N9++GVsygBt8IUCzAlz5s1kdXLD64y7pVjgkPwj3MMSTcJ/+WXhA+yI8ZGfBCUF4SXOPN+EOrvEu3KX/EA7Jn8I93OFbuE//IzzAKgiFh3gMXhOT5zpxWWLKeqm3hzy25+qcV9rWmSnVJBqf64UutY2d3qj1SdXH7dS5VKXWFGpuSqfz3KjKmj3j0c65ajYapeKjxBRIYJBza5JD5usSNZY0Wxx4E8O2ptr8isbymflaYYII49b0gqb0HTG9xoYda5x41jjyK6a0DinrlBnDv6Iw971NuploaCp/t5fpEXa+q8IMI+70Xz7yby9+AQxXbEEAAAB4nGNgYoAALgbsgImRiZGZgTU5Jz85m4EBAAzOAicAAA==) format('woff');
+  
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+%collecticons,
+[class^="collecticons-"],
+[class*=" collecticons-"] {
+  speak: none;
+  font-family: "collecticons";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better font rendering */
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+%collecticons-clock {
+  @extend %collecticons;
+  content: "\EA01"
+}
