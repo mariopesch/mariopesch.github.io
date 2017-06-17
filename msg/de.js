@@ -75,12 +75,12 @@ Ardublockly.LOCALISED_TEXT = {
   invalidXmlTitle: "Ungültige XML",
   invalidXmlBody: "Die XML Datei wurde nicht erfoglreich in Blöcke umgewandelt. Bitte überprüfe den XML Code und versuche es erneut.",
   /* Tooltips */
-  uploadingSketch: "Lade Sketch auf den Arduino...",
-  uploadSketch: "Lade Sketch auf den Arduino",
+  uploadingSketch: "Lade Sketch auf den Arduino (In der online Version nicht unterstützt)",
+  uploadSketch: "Lade Sketch auf den Arduino (In der online Version nicht unterstützt)",
   verifyingSketch: "Prüfe den Sketch...",
   verifySketch: "Prüfe den Sketch",
-  openingSketch: "Sketch wird in der Arduino IDE geöffnet...",
-  openSketch: "Öffne Sketch in IDE",
+  openingSketch: "Sketch wird in der Arduino IDE geöffnet...(In der online Version nicht unterstützt)",
+  openSketch: "Sketch wird in der Arduino IDE geöffnet...(In der online Version nicht unterstützt)",
   notImplemented: "Die Funktion wurde noch nicht implementiert",
   /* Prompts */
   ok: "OK",
